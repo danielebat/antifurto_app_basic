@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-c6197221e3c1f72dca6831a0fb69c10e16e2e2b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-edd1281a363298ec27f08791c4bb94cc26931d40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-c9df66b3269f37bd99d6c036d157d36e0a760e19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-e4f5c615ddea5349f36ee639a6630aa4a4050782.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-0945e935d47cd6ec6bdd08319abf0f8ed4d4d650.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-4c9ff06910fac0cf79fe270c433facf1fcbf0c97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-2594fd95ae52fae1d1d5b9d4c2e73d3609600d4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\activation-711792be584731088f7088bfc0a87261af474d05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-0eaccac7fe8b663eea726d0cf1b16684dbafa74e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\additionnal-115b51c13055dce01e17e7b7d917b3b98d144c55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-d2d792bc9c8c0170b4372808c8030b242369dbe1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a8c38c119e7c4afc4c15685186a6f75094c4a805.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-c9484e2abdec6b794e311b3a754bfbd59e506eeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-9f19c3d006601ceaa0888d6dfa82873662187a01.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-6e9bcd38e8e8ceba794d03a2f575f115746cd8ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-b5aa1a5b6afda983b9c1890941448191d8827e2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-334d2a3874da93d6103b668d8380406e68da8159.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-8724a4ae696527fdf918885a4d38211dc56c453a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-18144e96b737ffbd62a2cdd778332ef83b33ea40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-06cdfdf14861a53c16d8e251ec97c0389819b377.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-309426949bd2cda007b5d1c0fa9aeef58c92ccd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-12a070a14325ac7e747fa4bfdca337c1ce33dbb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-58902978e32979c825b402b7d9725db608b226b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-d3cdd1e54cba9dc44b6654ec31c068d258b261cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-280c3369c6c0fd7dc1fd617b0ab42124e77741ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-5f4f92cfc97baa23fd584cf71d1f06d46ee648ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-763384082b661112c82d4718e6ac2e1cfd0cdcea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-247bfbcffb52d9b7b48cef50693c2a193f16d05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-2aeb9964ef79c59053ea3fbc25b74a2fbaf145c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\mail-65f47d0161a406827d8745a72f9d1ef1fd1eb25b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Daniele\Desktop\VERSIONECONMAPS4885\AntifurtoAppBasic\app\build\intermediates\pre-dexed\debug\classes-29195b3222362f3221cf96f70160207a3c3e6b00.jar" />
+    </item>
+
+</items>
