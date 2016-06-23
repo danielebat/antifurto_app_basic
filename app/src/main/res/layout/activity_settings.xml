@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.antifurtoappbasic.SettingsActivity" >
+
+    <TextView
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Set up your secure phone number"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:id="@+id/textView"
+        android:layout_marginTop="35dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Number 1"
+        android:id="@+id/number1"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Number 2"
+        android:id="@+id/number2"
+        android:layout_marginTop="215dp"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Number 3"
+        android:id="@+id/number3"
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="10dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/phone1"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="110dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/phone2"
+        android:layout_marginTop="195dp"
+        android:layout_marginLeft="110dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/phone3"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="110dp" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Set phone number"
+        android:id="@+id/button"
+        android:background="@drawable/back_button_general"
+        android:textColor="@color/white"
+        android:onClick="checkPhoneNumbers"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="190dp" />
+
+    <ImageButton
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/back"
+        android:id="@+id/imageButton2"
+        android:src="@drawable/rubrica"
+        android:onClick="setSecurePhoneNumbers"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="10dp" />
+
+</RelativeLayout>

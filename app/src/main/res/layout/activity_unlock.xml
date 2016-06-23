@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:id="@+id/unlockLayout"
+    tools:context="com.example.antifurtoappbasic.unlockActivity">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:visibility="invisible"
+        android:background="@color/red"/>
+
+    <EditText
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:inputType="numberPassword"
+        android:ems="10"
+        android:id="@+id/unlockCode"
+        android:maxLength="4"
+        android:gravity="center"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/textViewCode"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/back" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Insert Session Code to unlock your phone"
+        android:gravity="center"
+        android:id="@+id/textViewCode"
+        android:layout_marginTop="45dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/unlockCode" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="Unlock"
+        android:id="@+id/unlockButton"
+        android:onClick="unlockPhone"
+        android:background="@drawable/back_button_general"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Password"
+        android:id="@+id/codeVisible"
+        android:checked="false"
+        android:onClick="setFinalCodeVisibility"
+        android:layout_below="@+id/unlockCode"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="70dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="30"
+        android:textSize="50dp"
+        android:gravity="center"
+        android:id="@+id/countdown"
+        android:background="@drawable/back"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Insert your Permanent Code \n ALARM MODE"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        android:id="@+id/newTextViewCode"
+        android:layout_marginTop="45dp"
+        android:layout_alignParentTop="true" />
+
+</RelativeLayout>
